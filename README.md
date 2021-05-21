@@ -1,6 +1,6 @@
-##👋 Hello there!
+👋 Hello there!
 I am Shahab, a young student looking towards learning and improving my skills.
-you can contanct me at [my email.](mailto:s.hosseini306@gmail.com)
+you can contanct me at [s.hosseini306@gmail.com .](mailto:s.hosseini306@gmail.com)
 
 <!---
 shahabhm/shahabhm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
